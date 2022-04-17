@@ -61,7 +61,7 @@
                     <div class="form-group row justify-content-around py-2">
                       <label class="col-4">Shares</label>
                       <div class="col col-8">
-                        <input v-model="stock.shares" type="date" class="form-control-sm form-control">
+                        <input v-model="stock.shares" type="text" class="form-control-sm form-control">
                       </div>
                     </div>
 
